@@ -1,13 +1,13 @@
-Source: cutefish-gtk-themes
+Source: pisces-gtk-themes
 Section: gnome
 Priority: optional
-Maintainer: CutefishOS <support@cutefishos.com>
+Maintainer: Piscesys Packaging Team <support@piscesys.com>
 Build-Depends:
 Standards-Version: 3.9.6
-Homepage: https://cutefishos.com
-Vcs-Git: https://github.com/cutefishos
+Homepage: https://piscesys.com
+Vcs-Git: https://github.com/piscesys
 
-Package: cutefish-gtk-themes
+Package: pisces-gtk-themes
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: CutefishOS GTK Themes
+Description: Piscesys GTK Themes
